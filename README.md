@@ -1,5 +1,5 @@
 # MedMinder-Medicine-Reminder-MSD3_2-
-This is my 3rd year 2nd semester's hardware project using Arduino Uno and Proteus. This project’s main aim is to make a smart medicine box for those users
+This is my 3rd year 2nd semester's hardware project using Arduino Mega and Proteus. This project’s main aim is to make a smart medicine box for those users
 who regularly take medicines and the prescription of their medicine is very
 long as it is hard to remember to patients and also for their care giver.
 Also Old age patients suffer from problems of forget to take pills on proper
